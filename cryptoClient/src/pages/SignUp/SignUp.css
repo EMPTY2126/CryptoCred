@@ -1,0 +1,14 @@
+.loginSignup{
+    margin-top: 10px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.05px;
+    text-align: center;
+}
+
+.loginSignup .loginSignupC{
+    color: #f6851b;
+    text-decoration: none;
+    font-weight: bold;
+}
