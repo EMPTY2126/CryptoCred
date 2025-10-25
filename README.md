@@ -188,7 +188,8 @@ This project is licensed under the MIT License - see the [LICENSE](cryptoServer/
 
 ## 🙏 Acknowledgments
 
-- Built with ❤️ by [Abhishek M](https://github.com/yourusername)
+- Built with ❤️ by CryptoCred Team
+[Utkarsh Uttam](https://github.com/UtkarshUttam),[Abhishek M](https://github.com/yourusername), [Amritanshu Shukla](), [Tanya Barsainya](), [Shashwat Wazalwar]()
 - Powered by the Ethereum ecosystem
 - UI components from Material-UI and DaisyUI
 
